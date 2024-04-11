@@ -1,1 +1,1 @@
-rootProject.name = 'vertx-virtual-thread1'
+rootProject.name = 'issue-vertx-not-waiting-http-requests'
